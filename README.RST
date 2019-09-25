@@ -1,8 +1,9 @@
 ===============================
-Intrinsic Multi-scale Evaluation of Generative Models
+The Shape of Data:
+Intrinsic Distance for Data Distributions
 ===============================
 
-This repository provides a reference implementation of MSID, a metric for
+This repository provides a reference implementation of IMD, a metric for
 comparing underlying *intrinsic* geometry of data manifolds.
 
 Installation
