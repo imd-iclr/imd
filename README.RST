@@ -1,6 +1,5 @@
 ===============================
-The Shape of Data:
-Intrinsic Distance for Data Distributions
+The Shape of Data: Intrinsic Distance for Data Distributions
 ===============================
 
 This repository provides a reference implementation of IMD, a metric for
